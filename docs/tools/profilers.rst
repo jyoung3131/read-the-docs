@@ -22,7 +22,7 @@ Intel's VTune can be used for CPU, FPGA, and Intel GPU platforms along with MPI-
 Likwid
 ==================================
 
-TBD
+See more information on using Likwid here `<https://gt-crnch-rg.readthedocs.io/en/main/tools/likwid-profiler.html>`__.
 
 PAPI
 ==================================
